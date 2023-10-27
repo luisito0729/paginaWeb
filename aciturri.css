@@ -1,0 +1,12 @@
+body{
+    font-family: 'open sans';
+    background-color: lightblue;
+    text-align: center;
+    padding: 30px 50px 0px 0px;
+}
+.titulo-aciturri{
+    color: white;
+    font-size: 30px;
+    text-align:center;
+    margin-bottom: 60px;
+}
